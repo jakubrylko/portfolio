@@ -10,7 +10,7 @@ I am a **software tester** interested in usability testing and test automation. 
 * Java / Selenium / Cucumber
 * GIT / GitHub / GitLab
 * SQL / MySQL
-* Postman
+* Postman / Newman
 * Genymotion / BlueStacks
 
 ## My projects
