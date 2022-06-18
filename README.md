@@ -6,7 +6,7 @@ I am a **software tester** interested in usability testing and test automation. 
 
 ## Tech stack
 * JIRA / OpenProject
-* TestLink / TestRail
+* TestRail / TestLink
 * Java / Selenium / Cucumber
 * GIT / GitHub / GitLab
 * SQL / MySQL
