@@ -5,6 +5,6 @@ I am a software tester interested in usability testing and test automation. I ha
 ## My projects
 * [Postman API Tests]
 ## Contact
-E-mail: jakub.rylko@gmail.com
-
 LinkedIn: [Jakub Ryłko](https://www.linkedin.com/in/jakubrylko)
+
+E-mail: jakub.rylko@gmail.com
