@@ -17,7 +17,7 @@ I am a **software tester** interested in usability testing and test automation. 
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
 * [SQL Statements](https://github.com/jakubrylko/sql-statements)
 * [Selenium Basics with Java](https://github.com/jakubrylko/java-selenium-basics)
-* [Basics of BDD in Testing]()
+* [BDD - Java / Selenium / Cucumber]()
 
 ## Contact
 LinkedIn: [Jakub Ryłko](https://www.linkedin.com/in/jakubrylko)
