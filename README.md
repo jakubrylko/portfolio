@@ -15,7 +15,7 @@ I am a software **quality assurance specialist** interested in usability testing
 
 ## My projects
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
-* [SQL Statements](https://github.com/jakubrylko/sql-statements)
+* [SQL Queries](https://github.com/jakubrylko/sql-statements)
 * [Selenium Basics with Java](https://github.com/jakubrylko/java-selenium-basics)
 * [BDD - Java / Selenium / Cucumber](https://github.com/jakubrylko/java-selenium-cucumber)
 
