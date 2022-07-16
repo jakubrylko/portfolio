@@ -20,6 +20,5 @@ I am a software **quality assurance specialist** interested in usability testing
 * [BDD - Java / Selenium / Cucumber](https://github.com/jakubrylko/java-selenium-cucumber)
 
 ## Contact
-LinkedIn: [Jakub Ryłko](https://www.linkedin.com/in/jakubrylko)
-
-E-mail: jakub.rylko@gmail.com
+* LinkedIn: [Jakub Ryłko](https://www.linkedin.com/in/jakubrylko)
+* E-mail: jakub.rylko@gmail.com
