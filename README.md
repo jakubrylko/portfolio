@@ -12,7 +12,7 @@ I am a software **quality assurance specialist** interested in usability testing
 * GIT / GitHub / GitLab
 * SQL / MySQL
 * Postman / Newman
-* Genymotion / BlueStacks
+* Genymotion / Xcode Simulator
 
 ## My projects
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
