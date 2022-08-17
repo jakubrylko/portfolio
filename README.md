@@ -7,6 +7,7 @@ I am a software **quality assurance specialist** interested in usability testing
 ## Tech stack
 * JIRA / OpenProject
 * TestRail / TestLink
+* JavaScript / Cypress
 * Java / Selenium / Cucumber
 * GIT / GitHub / GitLab
 * SQL / MySQL
