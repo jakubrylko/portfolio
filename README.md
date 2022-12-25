@@ -1,7 +1,7 @@
 # Jakub Ryłko
 
 ## About me
-I am a software **quality assurance specialist** interested in usability testing and test automation. I have experience in testing mobile, web and desktop applications. I am flexible team player with desire for continuous self development. My hobby is sound engineering and in my free time I do mixing and mastering of songs. At this point I would like to share my experience, projects and learning activities that I have had opportunity to do so far.
+Problem solving and team-oriented quality assurance specialist with over two years of experience, working for a product company and a software house. Quick learner with strong attention to detail, advocacy for quality and ability to analyse and isolate defects. Experience working in agile methodologies with mobile, web and desktop applications. Determined for continuous self-development with an interest in test automation and usability testing. At this portfolio I would like to share my experience, projects and learning activities that I have had opportunity to do so far.
 
 ## Tech stack
 * JIRA / OpenProject
