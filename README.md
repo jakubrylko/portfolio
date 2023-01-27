@@ -13,6 +13,9 @@ Problem solving and team-oriented quality assurance specialist with over two yea
 * Postman / Newman
 
 ## My projects
+### 2022:
+* [Cypress Automation Framework](https://github.com/jakubrylko/cypress-automation-framework)
+
 ### 2021:
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
 * [SQL Queries](https://github.com/jakubrylko/sql-statements)
