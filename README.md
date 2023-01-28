@@ -7,6 +7,7 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * JIRA / OpenProject
 * TestRail / TestLink
 * JavaScript / Cypress
+* BDD / Cucumber
 * GIT / GitHub / GitLab
 * SQL / MySQL
 * Postman / Newman
