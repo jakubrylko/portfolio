@@ -1,4 +1,5 @@
 # Jakub Ryłko
+### Quality Assurance
 
 ## About me
 Problem solving and team-oriented quality assurance specialist with over two years of experience, working for a product company and a software house. Quick learner with strong attention to detail, advocacy for quality and ability to analyse and isolate defects. Experience working in agile methodologies with mobile, web and desktop applications. Determined for continuous self-development with an interest in test automation and usability testing. In this portfolio I would like to share my experience, projects and learning activities that I have had opportunity to do so far.
