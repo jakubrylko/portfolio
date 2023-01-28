@@ -14,7 +14,7 @@ Problem solving and team-oriented quality assurance specialist with over two yea
 ## My projects
 ### 2022:
 * [Cypress Automation Framework](https://github.com/jakubrylko/cypress-automation-framework)
-* [Cypress basics)(https://github.com/jakubrylko/cypress-basics)
+* [Cypress Basics](https://github.com/jakubrylko/cypress-basics)
 
 ### 2021:
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
