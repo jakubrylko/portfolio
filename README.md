@@ -8,7 +8,7 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * TestRail / TestLink
 * JavaScript / Cypress
 * BDD / Cucumber
-* GIT / GitHub / GitLab
+* GIT / GitHub / Bitbucket
 * SQL / MySQL
 * Postman / Newman
 
