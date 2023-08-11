@@ -6,7 +6,11 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 ## Tech stack
 * JIRA / OpenProject
 * TestRail / TestLink
-* JavaScript / Cypress
+* JavaScript / TypeScript
+* Cypress / Playwright
+* Detox
+* Azure DevOps
+* Figma
 * BDD / Cucumber
 * GIT / GitHub / Bitbucket
 * SQL / MySQL
