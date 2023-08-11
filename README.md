@@ -5,14 +5,14 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 
 ## Tech stack
 * JIRA / OpenProject
+* Figma / Miro
 * TestRail / TestLink
 * JavaScript / TypeScript
+* GIT / GitHub / Bitbucket
+* BDD / Cucumber
 * Cypress / Playwright
 * Detox
 * Azure DevOps
-* Figma
-* BDD / Cucumber
-* GIT / GitHub / Bitbucket
 * SQL / MySQL
 * Postman / Newman
 
