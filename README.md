@@ -17,6 +17,9 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * Postman / Newman
 
 ## My projects
+### 2023:
+* [DemoQA Workshops](https://github.com/jakubrylko/demoqa-workshops/tree/main)
+
 ### 2022:
 * [Cypress Automation Framework](https://github.com/jakubrylko/cypress-automation-framework)
 * [Cypress Basics](https://github.com/jakubrylko/cypress-basics)
