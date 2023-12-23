@@ -19,6 +19,7 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 ## My projects
 ### 2023:
 * [Apptension Workshops](https://github.com/jakubrylko/apptension-workshops)
+* [Enlight E2E](https://github.com/jakubrylko/enlight-e2e)
 * [DemoQA Workshops](https://github.com/jakubrylko/demoqa-workshops)
 
 ### 2022:
