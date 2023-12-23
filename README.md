@@ -18,8 +18,8 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 
 ## My projects
 ### 2023:
-* [DemoQA Workshops](https://github.com/jakubrylko/demoqa-workshops)
 * [Apptension Workshops](https://github.com/jakubrylko/apptension-workshops)
+* [DemoQA Workshops](https://github.com/jakubrylko/demoqa-workshops)
 
 ### 2022:
 * [Cypress Automation Framework](https://github.com/jakubrylko/cypress-automation-framework)
