@@ -8,7 +8,7 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * Figma / Miro
 * TestRail / TestLink
 * JavaScript / TypeScript
-* GIT / GitHub / Bitbucket
+* Git / GitHub / Bitbucket
 * BDD / Cucumber
 * Cypress / Playwright
 * Detox
