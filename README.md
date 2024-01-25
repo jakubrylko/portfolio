@@ -28,6 +28,7 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 
 ### 2021:
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
+
 <!--
 * [SQL Queries](https://github.com/jakubrylko/sql-statements)
 * [Selenium Basics with Java](https://github.com/jakubrylko/java-selenium-basics)
