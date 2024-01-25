@@ -26,9 +26,9 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * [Cypress Automation Framework](https://github.com/jakubrylko/cypress-automation-framework)
 * [Cypress Basics](https://github.com/jakubrylko/cypress-basics)
 
-<!--
 ### 2021:
 * [API Testing with Postman](https://github.com/jakubrylko/postman-api-testing)
+<!--
 * [SQL Queries](https://github.com/jakubrylko/sql-statements)
 * [Selenium Basics with Java](https://github.com/jakubrylko/java-selenium-basics)
 * [BDD - Java / Selenium / Cucumber](https://github.com/jakubrylko/java-selenium-cucumber)
