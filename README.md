@@ -17,6 +17,9 @@ Problem solving and team-oriented **quality assurance specialist** with over two
 * Postman / Newman
 
 ## My projects
+### 2024:
+* [Web Automation](https://github.com/jakubrylko/web-automation)
+* 
 ### 2023:
 * [Apptension Workshops](https://github.com/jakubrylko/apptension-workshops)
 * [Enlight E2E](https://github.com/jakubrylko/enlight-e2e)
