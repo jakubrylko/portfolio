@@ -4,17 +4,18 @@
 Problem solving and team-oriented **quality assurance specialist** with over three years of experience, working for a product company and a software house. Quick learner with strong attention to detail, advocacy for quality and ability to analyze and isolate defects. Experience working in agile methodologies with mobile, web and desktop applications. Determined for continuous self-development with an interest in test automation. In this portfolio I would like to share my experience, projects and learning activities that I have had opportunity to do so far.
 
 ## Tech stack
-* JIRA / OpenProject
+* Jira / Confluence
+* Slack / MS Teams
+* TestLink / TestRail
 * Figma / Miro
-* TestRail / TestLink
 * JavaScript / TypeScript
 * Git / GitHub / Bitbucket
-* BDD / Cucumber
 * Cypress / Playwright
+* BDD / Cucumber
 * Detox
 * Azure DevOps
-* SQL / MySQL
 * Postman / Newman
+* SQL / MySQL
 
 ## My projects
 ### 2024:
